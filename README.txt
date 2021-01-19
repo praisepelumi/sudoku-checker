@@ -1,0 +1,1 @@
+This is a sudoku checker that was written in javascript. It returns true if a finished sudoku board is accuarate, and returns false otherwise.
